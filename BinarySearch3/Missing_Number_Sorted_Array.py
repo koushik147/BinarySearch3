@@ -1,3 +1,5 @@
+#TimeComplexity: O(log n)
+#SpaceComplexity: O(1)
 def MissingElement(arr):
     l = 0 # setting to initial pointer
     h = len(arr)-1 # setting to last pointer
